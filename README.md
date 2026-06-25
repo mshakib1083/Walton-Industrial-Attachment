@@ -1,5 +1,5 @@
-This repository contains my official completion certificate for the industrial attachment training program, issued by Walton Hi-Tech Industries PLC on November 27, 2025.
-<br><br>
+This is my official completion certificate for the industrial attachment training program, issued by Walton Hi-Tech Industries PLC on November 27, 2025.
+<br>
 ![Walton Certificate](Walton_Certificate.jpg)  
 <br><br>
 This is the comprehensive report from my 5-day industrial attachment at Walton Hi-Tech Industries PLC in Gazipur, Bangladesh:
