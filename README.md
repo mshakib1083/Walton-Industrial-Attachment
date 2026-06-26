@@ -1,6 +1,5 @@
-# This is my official completion certificate for the industrial attachment training program, issued by Walton Hi-Tech Industries PLC on November 27, 2025.
+# This is the completion certificate for the industrial attachment training program, issued by Walton Hi-Tech Industries PLC on November 27, 2025.
 
-<br>
 ![Walton Certificate](Walton_Certificate.jpg)  
 <br><br>
 
