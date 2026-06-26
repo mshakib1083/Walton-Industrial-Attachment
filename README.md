@@ -5,4 +5,4 @@
 
 # This is the comprehensive report from my 5-day industrial attachment at Walton Hi-Tech Industries PLC in Gazipur, Bangladesh:
 
-[View the report (PDF)](IA_WALTON_REPORT.pdf)
+[![Full Project Report](https://img.shields.io/badge/📄_Read_Full_Report-PDF-blue)](IA_WALTON_REPORT.pdf)
